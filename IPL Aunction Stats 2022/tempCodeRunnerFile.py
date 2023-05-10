@@ -1,0 +1,1 @@
+first_td = i.find_all("td")[0].find("div",class_="ih-pt-ic").text.strip()
